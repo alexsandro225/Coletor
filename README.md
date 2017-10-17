@@ -1,6 +1,10 @@
 # Coletor
 Coletor dos 10 países com maior população e seus valores de moedas em reais.
 
+------------------------- Requerido ------------------------------------
+- Instalação padrão do mongoDB (porta e etc).
+- IDE para Build.
+
 ------------------------- Dependências ---------------------------------
 - gson-2.8.2.jar
 - mongo-java-driver-3.5.0.jar
